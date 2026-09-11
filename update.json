@@ -1,8 +1,10 @@
 {
   "channel": "stable",
-  "latest_version": "1.3.0",
+  "latest_version": "1.3.3",
   "protocol_version": "1.3",
   "release_repo": "IllBEAKER5164/Looking-Glass-Releases",
-  "status": "bootstrap",
-  "notes": "Public update feed initialized for Looking Glass. Binary release publication will follow after the Windows drag fix is built and verified."
+  "delivery": "repository-payload",
+  "status": "channel-ready",
+  "next_target": "1.3.4",
+  "notes": "Public update channel is active. 1.3.3 is the installed baseline; 1.3.4 will target keyboard injection reliability and autonomous relay stability."
 }
